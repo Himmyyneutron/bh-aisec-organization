@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "format": 1,
     "package": {
         "name": "docker.io/joelmorales402/bh-aisec-project_1-echo-server",
         "environment": {
