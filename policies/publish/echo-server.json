@@ -1,15 +1,15 @@
 {
-  "version": 1,
-  "package": {
-    "name": "docker.io/joelmorales402/bh-aisec-project_1-echo-server",
-    "environment": {
-      "any_of": ["prod", "staging"]
+    "version": 1,
+    "package": {
+        "name": "docker.io/joelmorales402/bh-aisec-project_1-echo-server",
+        "environment": {
+            "any_of": ["prod", "staging"]
+        }
+    },
+    "build": {
+        "builder": "github_generator_level_3",
+        "source": {
+            "repository": "github.com/himmyyneutron/bh-aisec-project_1"
+        }
     }
-  },
-  "build": {
-    "builder": "github_generator_level_3",
-    "source": {
-      "repository": "github.com/himmyyneutron/bh-aisec-project_1"
-    }
-  }
 }
