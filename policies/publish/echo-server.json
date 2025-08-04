@@ -11,7 +11,7 @@
     "build":{
         "require_slsa_builder":"github_generator_level_3",
         "repository":{
-            "uri":"https://github.com/Himmyyneutron/bh-aisec-organizationproject1"
+            "uri":"https://"github.com/himmyyneutron/bh-aisec-project1"
         }
     }
 }
