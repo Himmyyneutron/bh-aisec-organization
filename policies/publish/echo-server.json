@@ -7,7 +7,7 @@
         }
     },
     "build": {
-        "builder": "github_generator_level_3",
+        "require_slsa_builder": "github_generator_level_3",
         "source": {
             "repository": "github.com/himmyyneutron/bh-aisec-project_1"
         }
