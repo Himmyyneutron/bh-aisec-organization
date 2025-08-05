@@ -9,7 +9,7 @@
     "build": {
         "require_slsa_builder": "github_generator_level_3",
         "repository": {
-            "uri": "github.com/himmyyneutron/bh-aisec-project_1"
+            "uri": "github.com/Himmyyneutron/bh-aisec-project_1"
         }
     }
 }
