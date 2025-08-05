@@ -1,5 +1,5 @@
 {
-    "version":1,
+    "format":1,
     "protection": {
         "google_service_account":"name@prod-project-id.iam.gserviceaccount.com"
     },
